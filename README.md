@@ -1,2 +1,2 @@
 # odin-recipes
-My first project named Recipes. It contains recipes of different food items with the main page handling all those links
+My first project named Recipes. The main page has links to different websites which have recipes of these food items. I will be using basic HTML.
