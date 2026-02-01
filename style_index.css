@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    background-color: rgb(15, 202, 71);
+    color: black;
+    padding: 20px;
+}
+
+li {
+    padding: 5px;
+}
