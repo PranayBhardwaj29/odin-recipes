@@ -1,10 +1,16 @@
 h1 {
     text-align: center;
-    background-color: rgb(15, 202, 71);
+    background-color:orange;
     color: black;
     padding: 20px;
 }
 
 li {
-    padding: 5px;
+    padding: 10px;
+    color: black;
+}
+
+.links {
+    background-color: yellow;
+    color: black;
 }
